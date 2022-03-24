@@ -6,7 +6,7 @@ import renderer from './Renderer.js'
 
 
 scene.add(box)
-camera.position.set(1,2,3)
+camera.position.set(1,2,4)
 camera.lookAt(box.position)
 
 scene.add(light)
